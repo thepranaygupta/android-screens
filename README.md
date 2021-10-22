@@ -17,7 +17,8 @@
 <a href="https://github.com/Dezenix/android-screens/pulls"><img src="https://img.shields.io/github/issues-pr/Dezenix/android-screens?color=brightgreen"></a>
 <a href="https://github.com/Dezenix/android-screens/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/Dezenix/android-screens?color=0059b3"></a>
 <!-- <a href="https://github.com/Dezenix/android-screens/issues"><img src="https://img.shields.io/github/issues/Dezenix/android-screens?color=0059b3"></a> -->
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 </div>
 
 ## ⚒️ Contribution Guidelines
